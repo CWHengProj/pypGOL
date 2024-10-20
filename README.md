@@ -1,2 +1,1 @@
-"# pypGOL" 
-"# pypGOL" 
+This repo contains the practice code for Conway's game of life.
